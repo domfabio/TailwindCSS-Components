@@ -15,10 +15,14 @@
 
 Coleção de componentes prontos em **TailwindCSS** para acelerar o desenvolvimento de interfaces.
 
+---
+
 ## 🚀 Como usar
 Cada componente está em um arquivo HTML independente.  
 Basta copiar o código e colar no seu projeto com Tailwind configurado.  
 👉 Teste rapidamente no [Playground oficial do TailwindCSS](https://play.tailwindcss.com/)
+
+---
 
 ## 📂 Estrutura
 - [Buttons](./buttons/) → Botões prontos para uso com TailwindCSS  
@@ -27,6 +31,8 @@ Basta copiar o código e colar no seu projeto com Tailwind configurado.
 - `forms/` → Formulários de login e cadastro  
 - `headers/` → Cabeçalhos responsivos  
 - `links/` → Links, menus de navegação, breadcrumbs, links sociais
+
+---
 
 ### 📲 Conteúdo no Instagram
 Exemplos destes componentes também em formato de tutorial rápido no Instagram:  
