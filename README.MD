@@ -21,7 +21,7 @@ Basta copiar o código e colar no seu projeto com Tailwind configurado.
 👉 Teste rapidamente no [Playground oficial do TailwindCSS](https://play.tailwindcss.com/)
 
 ## 📂 Estrutura
-- `buttons/` → Botões prontos para uso com TailwindCSS  
+- [Buttons](./buttons/) → Botões prontos para uso com TailwindCSS  
 - `cards/` → Cards de produto, perfil e testemunho  
 - `footers/` → Rodapés simples  
 - `forms/` → Formulários de login e cadastro  
