@@ -26,7 +26,7 @@ Basta copiar o código e colar no seu projeto com Tailwind configurado.
 
 ## 📂 Estrutura
 - [Buttons](./buttons/) → Botões prontos para uso com TailwindCSS  
-- `cards/` → Cards de produto, perfil e testemunho  
+- [Cards](./cards/) → Cards de produto, perfil e testemunho  
 - `footers/` → Rodapés simples  
 - `forms/` → Formulários de login e cadastro  
 - `headers/` → Cabeçalhos responsivos  
